@@ -1,0 +1,26 @@
+.wtl {
+    position: relative;
+    margin-top: 5em;
+    align-items: center;
+    align-self: center;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+.buttonPM {
+    color: black;
+    background-color: white;
+    border-radius: 1rem;
+    font-size: 20px;
+    size: 10rem;
+    padding: 0.9rem;
+    
+}
+
+.buttonPM:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}

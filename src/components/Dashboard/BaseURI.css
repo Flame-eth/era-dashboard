@@ -1,0 +1,27 @@
+.base {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 5rem;
+}
+.buttonBU {
+    color: black;
+    background-color: white;
+    border-radius: 1rem;
+    font-size: 20px;
+    size: 10rem;
+    padding: 0.9rem;
+    
+}
+
+.buttonBU:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.input{
+    padding: 0.098em 0.062em;
+    border-radius: 1rem;
+    width: 204px;
+    height: 59px;
+}
