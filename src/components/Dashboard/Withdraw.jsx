@@ -32,7 +32,7 @@ const Withdraw = () => {
 
 return (
     <div className="wtl">
-        <button type="button" className="buttonPM" onClick={withdraw}>
+        <button type="button" className="buttonPM button-clr" onClick={withdraw}>
             Withdraw
         </button>
     </div>
