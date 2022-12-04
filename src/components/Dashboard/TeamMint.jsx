@@ -43,7 +43,7 @@ const TeamMint = () => {
 
 return (
     <div className="wtl">
-        <button type="button" className="buttonPM" onClick={teamMint}>
+        <button type="button" className="buttonPM button-org" onClick={teamMint}>
             TeamMint
         </button>
     </div>
