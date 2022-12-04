@@ -5,8 +5,6 @@ import { NavLink } from "react-router-dom";
 import { Link } from "react-scroll";
 
 import Logo from "../../assets/logo.JPG";
-import { ReactComponent as Hamburger } from "../../assets/icon-hamburger.svg";
-import { ReactComponent as Close } from "../../assets/icon-close.svg";
 
 import { useSelector, useDispatch } from "react-redux";
 import { setMode, setAccount } from "../../redux/modeSlice";
